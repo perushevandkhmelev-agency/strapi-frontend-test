@@ -33,6 +33,9 @@
     "category": {
       "model": "news-categories",
       "via": "news_items"
+    },
+    "featured": {
+      "type": "boolean"
     }
   }
 }
